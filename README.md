@@ -7,6 +7,7 @@ Using R and data from the World Bank Development Indicators and the UN Populatio
 ![Migrant Stock by Country](https://user-images.githubusercontent.com/80914912/127407172-a670cbd9-55af-43ce-bada-f3d3acbcd7f0.png)
 
 
+
 ![Migrant Stock by Government Policy Objectives](https://user-images.githubusercontent.com/80914912/127407167-b9738a64-fd49-43ae-89cf-cac8a2178442.png)
 Green= increase, Black=maintain, Red=decrease
 
