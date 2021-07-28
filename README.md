@@ -3,7 +3,7 @@ Using R and data from the World Bank Development Indicators and the UN Populatio
 
 
 # Background
-In addition to economic reasons for migration, lolitical environment can affect choice of destination country. \
+In addition to economic reasons for migration, political environment can affect choice of destination country. \
 ○ Citizenship policies: residency requirements, birth-based citizenship, dual citizenship, language requirement \
 ○ Competitive radical-right parties \
 ○ Political regime: democracy, human rights \
