@@ -13,7 +13,6 @@ Green= increase, Black=maintain, Red=decrease
 
 
 ![Migrant Stock with Citizen Acquisition Provisions](https://user-images.githubusercontent.com/80914912/127407171-7668f851-9d93-4bd9-b3e4-38acd33bc679.png) \
-
 Blue= jus soli, Red=jus sanguinis
 
 
