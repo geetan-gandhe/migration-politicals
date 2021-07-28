@@ -1,4 +1,4 @@
-# The Effect of Political Environment on Migration
+# Political Environment and Migration
 Using R and data from the World Bank Development Indicators and the UN Population Division to visualize the effect of political environment on migration in 18 OECD countries.
 
 
