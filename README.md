@@ -1,5 +1,13 @@
 # migration-politicals
-Using R and data from the World Bank Development Indicators and the UN Population Division to visualize the effect of political environment on migration in 18 OECD countries
+Using R and data from the World Bank Development Indicators and the UN Population Division to visualize the effect of political environment on migration in 18 OECD countries.
+
+
+# Background
+In addition to economic reasons for migration, lolitical environment can affect choice of destination country. \
+○ Citizenship policies: residency requirements, birth-based citizenship, dual citizenship, language requirement \
+○ Competitive radical-right parties \
+○ Political regime: democracy, human rights \
+○ Immigration policies
 
 [Political Environment and Migration.pdf](https://github.com/geetan-gandhe/migration-politicals/files/6896859/Political.Environment.and.Migration.pdf)
 
